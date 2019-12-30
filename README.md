@@ -40,3 +40,25 @@ Sales Engineer resources
 
 * https://masteringtechnicalsales.com/current-news
 
+* https://wethesalesengineers.com/blogs/
+
+* https://www.salesengineerguy.com/
+
+* https://salesengineeringcoach.com/blog/
+
+* https://blog.hubspot.com/sales/how-to-become-sales-engineer
+
+* https://sales-engineers.blog/
+
+* https://www.rainmakers.co/blog/sales-engineer-career-path/
+
+* https://www.cloudshare.com/blog/10-sales-engineering-experts-you-should-be-following-on-twitter
+
+* https://smartbear.com/blog/life-at-sb/5-things-ive-learned-as-a-sales-engineer/
+
+* https://dyn.com/blog/the-need-to-knows-of-sales-engineering/
+
+* https://www.caplinq.com/blog/job/inside-technical-sales-professional-career-path-to-sales-engineer-rockstar/
+
+* https://www.cloudshare.com/blog/training/7-winning-technical-sales-engineer-training-topics
+
